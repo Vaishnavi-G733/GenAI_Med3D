@@ -1,4 +1,4 @@
-# MedDiagnify
+# GenAI_Med3D
 # Prediction Overlay
 ![WhatsApp Image 2025-02-24 at 22 44 42_fa81dde0](https://github.com/user-attachments/assets/9a42e513-a81c-4315-9e9d-98a67a1e5316)
 # GenAI - Prediction
